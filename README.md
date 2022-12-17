@@ -1,6 +1,7 @@
 # Corne-ish Zen V2 Custom Configuration
 
 ![Corne-ish Zen Logo](img/Zen_R3_sticker.png)
+![https://github.com/caksoylar/zmk-config](img/km.svg)
 
 **NOTE: This code is currently merged into ZMK Main.**
 
